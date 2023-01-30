@@ -1,11 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 
-/* A code that access credit card informations
- * @data - Ask Input from the user
- * Return - Always 0
- */
-
 struct credit_card {
   char name[100];
   char card_number[100];
