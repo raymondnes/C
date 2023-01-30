@@ -1,0 +1,1 @@
+This code creates a struct Task to store each task as a string and a completion flag, then uses an array of Tasks to store the list of tasks and a counter task_count to keep track of the number of tasks. The add_task function adds a new task to the list and the save_tasks function saves the list of tasks to a file named tasks.txt in the current directory.
